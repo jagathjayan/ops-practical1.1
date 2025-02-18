@@ -8,5 +8,6 @@ int main
 	scanf("%d" & b);
 	c=a+b;
 	scanf("sum is %d" &c);
+	return 0;
 }
 		
